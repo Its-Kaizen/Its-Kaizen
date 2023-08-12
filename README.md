@@ -32,4 +32,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itskaizen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itskaizen" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-kaizen&show_icons=true&locale=en" alt="its-kaizen" /></p>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Its-Kaizen&&theme=xcode)](https://github.com/Its-Kaizen)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Its-Kaizen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Its-Kaizen" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Kaizen&show_icons=true&locale=en&theme=tokyonight" alt="Its-Kaizen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Kaizen&&theme=tokyonight" alt="Its-Kaizen" /></p>
