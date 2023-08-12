@@ -1,9 +1,10 @@
-[![MasterHead](https://windowscustomization.com/wp-content/uploads/2018/12/Cyberpunk-2077-1.gif)](https://github.com/Its-Kaizen)
+[![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Its-Kaizen)
 <h1 align="center">Hi 👋, I'm Karim Mouhoub</h1>
-<h3 align="center">I am a dedicated software engineering student from Morocco, currently studying at 1337 Bengruir. 🇲🇦</h3>
-(img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/6da0d4558ef3317ed4e025d57b81747e/8b7c3064577d5057-e6/s1280x1920/12b2ca8ef552a665f1138cc05c24f1a8b86f3953.gifv")
+<h3 align="center">A passionate software engineering student from Morocco 🇲🇦, studying at 1337 Bengruir</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/fa/5c/bb/fa5cbbf99c85b0e70e612cc2f75526f0.gif)">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-kaizen" alt="its-kaizen" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/fcking_infamous" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/fcking_infamous?logo=twitter&style=for-the-badge" alt="https://twitter.com/fcking_infamous" /></a> </p>
 
@@ -29,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-kaizen&show_icons=true&locale=en&layout=compact" alt="its-kaizen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-kaizen&show_icons=true&locale=en" alt="its-kaizen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kaizen&" alt="its-kaizen" /></p>
