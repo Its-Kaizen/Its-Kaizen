@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/fcking_infamous" target="blank"><img src="https://img.shields.io/twitter/follow/fcking_infamous?logo=twitter&style=for-the-badge" alt="fcking_infamous" /></a> </p>
@@ -31,9 +32,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itskaizen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itskaizen" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-kaizen&show_icons=true&locale=en&layout=compact" alt="its-kaizen" /></p>
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/radical/0-profile-details.svg)](https://github.com/Its-Kaizen/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/radical/1-repos-per-language.svg)](https://github.com/Its-Kaizen/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/radical/2-most-commit-language.svg)](https://github.com/Its-Kaizen/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/radical/3-stats.svg)](https://github.com/Its-Kaizen/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Its-Kaizen/github-profile-summary-cards-example/master/profile-summary-card-output/radical/4-productive-time.svg)](https://github.com/Its-Kaizen/github-profile-summary-cards)
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-kaizen&show_icons=true&locale=en" alt="its-kaizen" /></p>
