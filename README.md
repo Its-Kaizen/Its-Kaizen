@@ -1,14 +1,18 @@
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Its-Kaizen)
 <h1 align="center">Hi 👋, I'm Karim Mouhoub</h1>
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦, studying at 1337 Bengruir</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/fa/5c/bb/fa5cbbf99c85b0e70e612cc2f75526f0.gif)">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-kaizen&label=Profile%20views&color=0e75b6&style=flat" alt="its-kaizen" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/fcking_infamous" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/fcking_infamous?logo=twitter&style=for-the-badge" alt="https://twitter.com/fcking_infamous" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fcking_infamous" target="blank"><img src="https://img.shields.io/twitter/follow/fcking_infamous?logo=twitter&style=for-the-badge" alt="fcking_infamous" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++ at 1337**
+- 🔭 I’m studying working on [1337 Coding School](https://twitter.com/1337FIL)
+
+- 🌱 I’m currently learning **C and C++**
+
+- 💬 Ask me about **Life**
 
 - 📫 How to reach me **axwellwork@gmail.com**
 
@@ -16,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/fcking_infamous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fcking_infamous" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/fcking_infamous/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fcking_infamous/" height="30" width="40" /></a>
+<a href="https://twitter.com/fcking_infamous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fcking_infamous" height="30" width="40" /></a>
+<a href="https://instagram.com/fcking_infamous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fcking_infamous" height="30" width="40" /></a>
 <a href="https://discord.gg/its_infamous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_infamous" height="30" width="40" /></a>
 </p>
 
@@ -30,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-kaizen&show_icons=true&locale=en&layout=compact" alt="its-kaizen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-kaizen&show_icons=true&locale=en" alt="its-kaizen" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-kaizen&" alt="its-kaizen" /></p>
