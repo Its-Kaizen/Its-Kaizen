@@ -1,5 +1,5 @@
 <p align="center">
-        <h1 align="center">Hi 👋, I'm Karim Mouhoub <img src ="https://64.media.tumblr.com/e879c84872d8728f9e5597b14d603fb2/tumblr_mjpwam5Q6t1qkgxf0o1_500.gifv" width="40" /></h1>
+        <h1 align="center">Hi<a href="https://imgur.com/0Wu17Kb"><img src="https://i.imgur.com/0Wu17Kb.png" title="source: imgur.com" width="17" /></a>, I'm KAIZEN <img src ="https://media.tenor.com/hG868R7hU3EAAAAC/berserk-gif.gif" width="40" /></h1>
 </p>
 
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Its-Kaizen)
