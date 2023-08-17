@@ -41,3 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Kaizen&show_icons=true&locale=en&theme=tokyonight" alt="Its-Kaizen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Kaizen&&theme=tokyonight" alt="Its-Kaizen" /></p>
+
+
+<p align="center">      
+        <img src ="https://media.tenor.com/RizT-AtAcfkAAAAd/berserk-guts.gif" width="1100" />
+</p>
