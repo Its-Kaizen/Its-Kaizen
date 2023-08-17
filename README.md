@@ -1,5 +1,8 @@
+<p align="center">
+        <h1 align="center">Hi 👋, I'm Karim Mouhoub <img src ="https://64.media.tumblr.com/e879c84872d8728f9e5597b14d603fb2/tumblr_mjpwam5Q6t1qkgxf0o1_500.gifv" width="40" /></h1>
+</p>
+
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Its-Kaizen)
-<h1 align="center">Hi 👋, I'm Karim Mouhoub</h1>
 <h3 align="center">A passionate software engineering student from Morocco 🇲🇦, studying at 1337 Bengruir</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
