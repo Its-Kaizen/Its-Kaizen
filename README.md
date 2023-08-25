@@ -35,12 +35,27 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itskaizen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itskaizen" /></a></p><br><br>
 
+---
+## My GitHub Stats
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Its-Kaizen&&theme=xcode)](https://github.com/Its-Kaizen)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Its-Kaizen&show_icons=true&locale=en&count_private=true&theme=radical)]()
+[![]()]()
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Its-Kaizen&show_icons=true&locale=en&theme=tokyonight" alt="Its-Kaizen" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Kaizen&langs_count=8&theme=radical&layout=pie)]()
+[![Im actually ken not Its-Kaizen](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xlZGRvdTAybm15ZHE5ZHZzcjhkZDNob2p6NzBmeHNnNGQxdndwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IPnvQOHS2GewmzVKKm/giphy.gif)]()
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Kaizen&&theme=tokyonight" alt="Its-Kaizen" /></p>
+## Add me on Discord
+
+<div style="display: flex; align-items: center;">
+  <a href="https://discord.com/users/284671651684286464">
+    <img src="https://lanyard.cnrad.dev/api/284671651684286464" alt="Discord Presence" width="400" height="200"/>
+  </a>
+  <a href="https://discord.com/users/284671651684286464">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xlZGRvdTAybm15ZHE5ZHZzcjhkZDNob2p6NzBmeHNnNGQxdndwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IPnvQOHS2GewmzVKKm/giphy.gif" alt="Merserk GIF" width="200" height="200"/>
+  </a>
+</div>
+
+- Discord: [@its_infamous](https://discordapp.com/users/284671651684286464)
 
 
 <p align="center">      
