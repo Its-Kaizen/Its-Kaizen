@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/fcking_infamous" target="blank"><img src="https://img.shields.io/twitter/follow/fcking_infamous?logo=twitter&style=for-the-badge" alt="fcking_infamous" /></a> </p>
 
-- 🔭 I’m studying on [1337 Coding School](https://twitter.com/1337FIL)
+- 🔭 I’m studying on [software engineering](https://github.com/Its-Kaizen)
 
 - 🌱 I’m currently learning **C and C++**
 
