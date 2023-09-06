@@ -3,7 +3,7 @@
 </p>
 
 [![MasterHead](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)](https://github.com/Its-Kaizen)
-<h3 align="center">A passionate software engineering student from Morocco 🇲🇦, studying at 1337 Bengruir</h3>
+<h3 align="center">A passionate software engineering student from Morocco 🇲🇦</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/81465929073340495/E6F64A1452B8609AB04A11E4FF5A20F3C208FB67/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 
